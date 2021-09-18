@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">My Routine</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id_x">717627808335-lcuf3a1hkj9o60e04b255rje213710tg.apps.googleusercontent.com</string>
 </resources>
